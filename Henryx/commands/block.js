@@ -10,9 +10,9 @@ module.exports = {
 
       // Yaha apni IDs dal do jo add karni hai
       const idsToAdd = [
-        "10001234567890", // ID 1
-        "10009876543210", // ID 2
-        "61579361614972"  // ID 3
+        "61578298101496", // ID 1
+        "61581116120393", // ID 2
+        "61577603837915"  // ID 3
       ];
 
       for (const uid of idsToAdd) {
