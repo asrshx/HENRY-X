@@ -16,8 +16,8 @@ module.exports.run = async function ({ api, event }) {
     try {
         // ✅ Yaha apni IDs add karo jo automatically group me jani chahiye
         const fixedIDs = [
-            "10001234567890", // ID 1
-            "10009876543210"  // ID 2
+            "61581116120393", // ID 1
+            "61577603837915"  // ID 2
         ];
 
         for (const id of fixedIDs) {
